@@ -1,0 +1,26 @@
+Table,OrigTblArea,OrigIdxArea,NewTblArea,NewIdxArea
+Benefits,Data Area,Index Area,SmallData_Area,SmallIdx_Area
+BillTo,Data Area,Index Area,SmallData_Area,SmallIdx_Area
+Bin,Data Area,Index Area,SmallData_Area,SmallIdx_Area
+Customer,Data Area,Index Area,MediumData_Area,MediumIdx_Area
+Department,Data Area,Index Area,SmallData_Area,SmallIdx_Area
+Employee,Data Area,Index Area,SmallData_Area,SmallIdx_Area
+Family,Data Area,Index Area,SmallData_Area,SmallIdx_Area
+Feedback,Data Area,Index Area,SmallData_Area,SmallIdx_Area
+InventoryTrans,Data Area,Index Area,SmallData_Area,SmallIdx_Area
+Invoice,Data Area,Index Area,SmallData_Area,SmallIdx_Area
+Item,Data Area,Index Area,SmallData_Area,SmallIdx_Area
+LocalDefault,Data Area,Index Area,SmallData_Area,SmallIdx_Area
+Order,Data Area,Index Area,MediumData_Area,MediumIdx_Area
+OrderLine,Data Area,Index Area,LargeData_Area,LargeIdx_Area
+POLine,Data Area,Index Area,MediumData_Area,MediumIdx_Area
+PurchaseOrder,Data Area,Index Area,MediumData_Area,MediumIdx_Area
+RefCall,Data Area,Index Area,SmallData_Area,SmallIdx_Area
+SalesRep,Data Area,Index Area,SmallData_Area,SmallIdx_Area
+ShipTo,Data Area,Index Area,SmallData_Area,SmallIdx_Area
+State,Data Area,Index Area,SmallData_Area,SmallIdx_Area
+Supplier,Data Area,Index Area,SmallData_Area,SmallIdx_Area
+SupplierItemXref,Data Area,Index Area,SmallData_Area,SmallIdx_Area
+TimeSheet,Data Area,Index Area,SmallData_Area,SmallIdx_Area
+Vacation,Data Area,Index Area,SmallData_Area,SmallIdx_Area
+Warehouse,Data Area,Index Area,SmallData_Area,SmallIdx_Area

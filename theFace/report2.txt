@@ -1,0 +1,37 @@
+DF Area Updater Report
+=======================
+
+Tables moved     : 0
+Indexes moved    : 0
+Area mismatches  : 0
+Blocks w/o map   : 86
+
+--- Detail ---
+--- CSV rows not found in .df ---
+NOT FOUND: "Benefits"
+NOT FOUND: "BillTo"
+NOT FOUND: "Bin"
+NOT FOUND: "CDC_SalesRep"
+NOT FOUND: "Contacts"
+NOT FOUND: "Customer"
+NOT FOUND: "Department"
+NOT FOUND: "Employee"
+NOT FOUND: "Family"
+NOT FOUND: "Feedback"
+NOT FOUND: "InventoryTrans"
+NOT FOUND: "Invoice"
+NOT FOUND: "Item"
+NOT FOUND: "LocalDefault"
+NOT FOUND: "Order"
+NOT FOUND: "OrderLine"
+NOT FOUND: "POLine"
+NOT FOUND: "PurchaseOrder"
+NOT FOUND: "RefCall"
+NOT FOUND: "SalesRep"
+NOT FOUND: "ShipTo"
+NOT FOUND: "State"
+NOT FOUND: "Supplier"
+NOT FOUND: "SupplierItemXref"
+NOT FOUND: "TimeSheet"
+NOT FOUND: "Vacation"
+NOT FOUND: "Warehouse"
